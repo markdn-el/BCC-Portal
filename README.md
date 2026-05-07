@@ -9,7 +9,7 @@ I built this website to learn the basics of web structure and design.
 - **Home**: Includes a "Hero" section with a welcome message and a button.  
 - **About**: Uses a side‑by‑side design to show the school’s history and mission.  
 - **Courses**: Displays different school departments using "Course Cards".  
-- **Faculty**: Lists teachers in a clean, organized grid.  
+- **Faculty**: Lists teachers in a clean, organized cards.  
 
 ---
 
