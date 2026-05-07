@@ -431,3 +431,86 @@ main {
 .submit-btn:hover {
     background-color: #003366;
 }
+
+/*for contact.php*/
+
+
+/* Contact Section Container */
+.contact-container {
+    padding: 60px 10%;
+    display: flex;
+    justify-content: center;
+}
+
+.contact-section {
+    background-color: #ffffff;
+    padding: 40px;
+    border-radius: 15px; /* Matches About section image style [cite: 30] */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 600px;
+}
+
+.contact-header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.contact-header h2 {
+    color: #001f3f; /* Navy Blue  */
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+/* Form Styling */
+.contact-form-group {
+    margin-bottom: 20px;
+}
+
+.contact-form-group label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 8px;
+    color: #333;
+}
+
+.contact-form-group input, 
+.contact-form-group textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 1rem;
+    box-sizing: border-box; /* Ensures padding doesn't break width */
+}
+
+.contact-form-group input:focus, 
+.contact-form-group textarea:focus {
+    outline: none;
+    border-color: #001f3f;
+}
+
+/* Button Styling */
+.contact-btn {
+    width: 100%;
+    padding: 15px;
+    background-color: #001f3f; /* Navy Blue  */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.1rem;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+.contact-btn:hover {
+    background-color: #003366; /* Slightly lighter navy for hover effect */
+}
+
+/* Responsive Design  */
+@media (max-width: 768px) {
+    .contact-container {
+        padding: 30px 5%;
+    }
+}
