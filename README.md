@@ -25,7 +25,8 @@ I used the official colors required by the project instructions:
 ## 🤖 AI Disclosure (Mandatory)
 I used **AI (Gemini)** to help me with the following parts:
 - **CSS Styling**: Generated all CSS code to ensure the site followed the required color palette and professional layout.  
-- **Layout Structure**: Organized the CSS Grid and Flexbox parts of the site.  
+- **Layout Structure**: Organized the CSS Grid and Flexbox parts of the site.
+- - **Bug Fix**: Fix bugs in both frontend and backend.    
 
 ---
 
