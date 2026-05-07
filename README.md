@@ -29,15 +29,6 @@ I used **AI (Gemini)** to help me with the following parts:
 
 ---
 
-## ⚠️ Note
-The original instructions asked for a functional contact form using PHP.  
-However, I chose to focus only on the **HTML structure and overall layout**.
-
-I studied HTML and CSS, but found them difficult to master in a short amount of time.  
-Because of these challenges and time limits, I decided to focus on fully understanding the website’s **structure and design** instead of backend functions.  
-I wanted to make sure the parts I turned in were things I really understood how to organize.
-
----
 
 ## ▶️ How to Run This Project
 1. Download the **BCC-Portal** folder.  
